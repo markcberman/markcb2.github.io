@@ -1,0 +1,141 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Visualization Project">
+    <meta name="author" content="Mark Berman">
+    <link rel="icon" href="../../favicon.ico">
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+          crossorigin="anonymous">
+    <link href="css/starter-template.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/vega-tooltip/0.4.2/vega-tooltip.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+        <title>Hate Crime (2005 - 2015)</title>
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">CS498 - Final Project</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="hcmain.html">Home</a></li>
+           <li ><a href="hcbiasmotivations.html">Scene2</a></li>
+             <li ><a href="hcoffenders.html">Scene2</a></li>
+            <li ><a href="hcjumpoff.html">Scene3</a></li>
+            <li ><a href="hcexploration.html">Final</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <!-- Begin page content -->
+
+
+
+
+        <div class="container">
+
+          <div class="page-header">
+            <h1>Hate Crine in the UNited States: 2005 - 2015</h1>
+          </div>
+          <p class="lead">Stories of domestic hate crime seem to dominate cable television news and Facebook feeds.  How rampant is it and are there ways to quntify it.  The answer is yes, courtesy of the <b>Department of Justice's Uniform Crime Reporting</b> program.</p>
+
+                         <div class="text-center">
+                         <a href="docs/abouthatecrime_final.pdf" target="_blank">
+                                  <p class="lead">https://ucr.fbi.gov/hate-crime/2015/topic-pages/incidentsandoffenses_final</p></a>
+                         </div>
+          <p class="lead">
+                         Include more text here
+                         <br>
+
+                         </p>
+         <br>
+         <br>
+        
+
+           <div class="mainVis" id="mainVis">
+
+           </div>
+       
+
+         <div class="container" id="aboutVisualization" style="padding-bottom: 30px;">
+           <button class="accordion">Visualization Approach - Main Page</button>
+              <div class="panel" >
+                <p class="lead" >Describe approach for the main page visualization here</p>
+              </div>
+
+         </div>
+         <div class="container">
+           <div class="col-lg-12 text-center" >
+           <a href="second.html">
+           <button type="button" class="btn btn-default btn-lg btn-primary">
+             <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>Next
+           </button></a>
+           </div>
+
+
+         </div>
+
+        </div><!-- /.container -->
+
+
+
+
+      <footer class="footer   text-center">
+        <div class="container">
+          <p class="text-muted"></p>
+          <strong>Author <a href="https://www.linkedin.com/in/akumar6/"  target="_blank">Ashish Kumar</a></strong>
+        </div>
+
+      </footer>
+
+
+      <div id="myModal" class="modal hide fade">
+          <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true"> × </button>
+              <h3 id="myModalLabel">Modal header</h3>
+          </div>
+          <div class="modal-body">
+             <h1>This is the test page</h1>
+          </div>
+          <div class="modal-footer">
+              <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+          </div>
+      </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+          integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+          crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+  <!-- Include java script for main page here    -->
+  <!-- <script src="lib/mainpagevis.js"></script>  -->
+
+</body>
+</html>
