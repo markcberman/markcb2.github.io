@@ -60,17 +60,45 @@
           <div class="page-header">
             <h1>Hate Crime in the United States: 2005 - 2015</h1>
           </div>
-          <p class="lead">Stories of domestic hate crime seem to dominate cable television news and Facebook feeds.  How rampant is it and are there ways to quntify it.  The answer is yes, courtesy of the <b>Department of Justice's Uniform Crime Reporting</b> program.</p>
+          <p class="lead">Stories of domestic hate crime seem to dominate cable television news and Facebook feeds.  How rampant is it and are there ways to quntify it.  The answer is yes, courtesy of the <b>Department of Justice's (DOJ's) Uniform Crime Reporting</b> program.</p>
 
                          <div class="text-center">
-                         <a href="docs/abouthatecrime_final.pdf" target="_blank">
-                                  <p class="lead">https://ucr.fbi.gov/hate-crime/2015/topic-pages/incidentsandoffenses_final</p></a>
+                         <button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#myModal"><p class="lead">About How the DOJ Tracks and Reports Hate Crimes As Part of Its Uniform Crime Reporting Program</p></button>
                          </div>
-          <p class="lead">
-                         Include more text here
-                         <br>
 
-                         </p>
+
+
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body">
+         <object type="application/pdf" data="docs/abouthatecrime_final.pdf" width="100%" height="500" style="height: 85vh;">No Support</object>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+          <p class="lead">Set the stage in words for the story here<br></p>
          <br>
          <br>
         
@@ -78,15 +106,49 @@
            <div class="mainVis" id="mainVis">
 
            </div>
-       
 
-         <div class="container" id="aboutVisualization" style="padding-bottom: 30px;">
-           <button class="accordion">Visualization Approach - Main Page</button>
-              <div class="panel" >
-                <p class="lead" >Describe approach for the main page visualization here</p>
-              </div>
+     <div class="container" id="aboutVisualizationX" style="padding-bottom: 30px;">
+        <button class="btn btn-default" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">About the Vizualization</button>
+        <div class="collapse" id="collapseExample">
+          <div class="well">
+            <h2>About the Vizualization</h2>
+              <section>
+                <h3>Scene Layout and Design</h3>
+                <ul class="list-group">
+                  <li class="list-group-item">Discuss why a Martini-Glass layout style as chosen.</li>
+                  <li class="list-group-item">Describe how the Martini-Glass layout is implemented in this visualization.</li>
+              </ul>
+              </section>
+                <h3>Annotation Usage</h3>
+                <ul class="list-group">
+                  <li class="list-group-item">Describe what type of annotations are used and where they are used.</li>
+                  <li class="list-group-item">Describe how they highlight the data.</li>
+                  <li class="list-group-item">Describe when the annotations are cleared.</li>
+                  <li class="list-group-item">Describe what template the annotations follow.</li>
+                  <li class="list-group-item">Vestibulum at eros</li>
+                </ul>
+              </section>
+               </section>
+                <h3>Parameter Usage</h3>
+                <ul class="list-group">
+                  <li class="list-group-item">Describe which parameters are used.</li>
+                  <li class="list-group-item">Describe how they control the state of the vizualization.</li>
+                </ul>
+              </section>
+              </section>
+                <h3>Triggers</h3>
+                <ul class="list-group">
+                  <li class="list-group-item">Describe which user events trigger parameter changes</li>
+                  <li class="list-group-item">Describe how the use is made aware of available user events through the use of helpful hints on page load events.</li>
+                </ul>
+              </section>
+          </div>
+        </div>
+    </div>
 
-         </div>
+
+
+
          <div class="container">
            <div class="col-lg-12 text-center" >
            <a href="second.html">
@@ -129,11 +191,11 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
           integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
           crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+  <script>src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"><script>
   <!-- Include java script for main page here    -->
   <!-- <script src="lib/mainpagevis.js"></script>  -->
 
