@@ -1,0 +1,402 @@
+[
+  {
+    "Year": 2015,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 3310,
+    "Offenses": 4029,
+    "Victims": 4216,
+    "Known_Offenders": 3196
+  },
+  {
+    "Year": 2015,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1244,
+    "Offenses": 1354,
+    "Victims": 1402,
+    "Known_Offenders": 809
+  },
+  {
+    "Year": 2015,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 74,
+    "Offenses": 88,
+    "Victims": 88,
+    "Known_Offenders": 73
+  },
+  {
+    "Year": 2015,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1190,
+    "Offenses": 1366,
+    "Victims": 1415,
+    "Known_Offenders": 1397
+  },
+  {
+    "Year": 2015,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 32,
+    "Offenses": 48,
+    "Victims": 52,
+    "Known_Offenders": 18
+  },
+  {
+    "Year": 2014,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 3216,
+    "Offenses": 3871,
+    "Victims": 4048,
+    "Known_Offenders": 3099
+  },
+  {
+    "Year": 2014,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1014,
+    "Offenses": 1092,
+    "Victims": 1140,
+    "Known_Offenders": 687
+  },
+  {
+    "Year": 2014,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 84,
+    "Offenses": 95,
+    "Victims": 96,
+    "Known_Offenders": 74
+  },
+  {
+    "Year": 2014,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1148,
+    "Offenses": 1327,
+    "Victims": 1397,
+    "Known_Offenders": 1316
+  },
+  {
+    "Year": 2014,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 17,
+    "Offenses": 33,
+    "Victims": 46,
+    "Known_Offenders": 16
+  },
+  {
+    "Year": 2013,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 3526,
+    "Offenses": 4201,
+    "Victims": 4384,
+    "Known_Offenders": 3476
+  },
+  {
+    "Year": 2013,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1031,
+    "Offenses": 1163,
+    "Victims": 1223,
+    "Known_Offenders": 682
+  },
+  {
+    "Year": 2013,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 83,
+    "Offenses": 92,
+    "Victims": 99,
+    "Known_Offenders": 77
+  },
+  {
+    "Year": 2013,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1295,
+    "Offenses": 1468,
+    "Victims": 1527,
+    "Known_Offenders": 1592
+  },
+  {
+    "Year": 2013,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 6,
+    "Offenses": 12,
+    "Victims": 12,
+    "Known_Offenders": 6
+  },
+  {
+    "Year": 2012,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 3464,
+    "Offenses": 4119,
+    "Victims": 4333,
+    "Known_Offenders": 3461
+  },
+  {
+    "Year": 2012,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1099,
+    "Offenses": 1166,
+    "Victims": 1340,
+    "Known_Offenders": 484
+  },
+  {
+    "Year": 2012,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1135,
+    "Offenses": 1318,
+    "Victims": 1376,
+    "Known_Offenders": 1281
+  },
+  {
+    "Year": 2012,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 92,
+    "Offenses": 102,
+    "Victims": 102,
+    "Known_Offenders": 96
+  },
+  {
+    "Year": 2012,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 6,
+    "Offenses": 13,
+    "Victims": 13,
+    "Known_Offenders": 9
+  },
+  {
+    "Year": 2011,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 3637,
+    "Offenses": 4356,
+    "Victims": 4404,
+    "Known_Offenders": 3536
+  },
+  {
+    "Year": 2011,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1233,
+    "Offenses": 1318,
+    "Victims": 1480,
+    "Known_Offenders": 590
+  },
+  {
+    "Year": 2011,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1293,
+    "Offenses": 1508,
+    "Victims": 1572,
+    "Known_Offenders": 1511
+  },
+  {
+    "Year": 2011,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 53,
+    "Offenses": 58,
+    "Victims": 61,
+    "Known_Offenders": 87
+  },
+  {
+    "Year": 2011,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 6,
+    "Offenses": 14,
+    "Victims": 16,
+    "Known_Offenders": 7
+  },
+  {
+    "Year": 2010,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 3982,
+    "Offenses": 4765,
+    "Victims": 5071,
+    "Known_Offenders": 3821
+  },
+  {
+    "Year": 2010,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1322,
+    "Offenses": 1409,
+    "Victims": 1552,
+    "Known_Offenders": 606
+  },
+  {
+    "Year": 2010,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1277,
+    "Offenses": 1470,
+    "Victims": 1528,
+    "Known_Offenders": 1516
+  },
+  {
+    "Year": 2010,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 43,
+    "Offenses": 46,
+    "Victims": 48,
+    "Known_Offenders": 58
+  },
+  {
+    "Year": 2010,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 4,
+    "Offenses": 9,
+    "Victims": 9,
+    "Known_Offenders": 7
+  },
+  {
+    "Year": 2008,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 4886,
+    "Offenses": 5852,
+    "Victims": 6160,
+    "Known_Offenders": 4757
+  },
+  {
+    "Year": 2008,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1519,
+    "Offenses": 1606,
+    "Victims": 1732,
+    "Known_Offenders": 632
+  },
+  {
+    "Year": 2008,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1297,
+    "Offenses": 1617,
+    "Victims": 1706,
+    "Known_Offenders": 1460
+  },
+  {
+    "Year": 2008,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 78,
+    "Offenses": 85,
+    "Victims": 85,
+    "Known_Offenders": 72
+  },
+  {
+    "Year": 2008,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 3,
+    "Offenses": 8,
+    "Victims": 8,
+    "Known_Offenders": 6
+  },
+  {
+    "Year": 2007,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 4877,
+    "Offenses": 5980,
+    "Victims": 6303,
+    "Known_Offenders": 4862
+  },
+  {
+    "Year": 2007,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1400,
+    "Offenses": 1477,
+    "Victims": 1628,
+    "Known_Offenders": 576
+  },
+  {
+    "Year": 2007,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1265,
+    "Offenses": 1460,
+    "Victims": 1512,
+    "Known_Offenders": 1454
+  },
+  {
+    "Year": 2007,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 79,
+    "Offenses": 82,
+    "Victims": 84,
+    "Known_Offenders": 70
+  },
+  {
+    "Year": 2007,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 3,
+    "Offenses": 7,
+    "Victims": 8,
+    "Known_Offenders": 3
+  },
+  {
+    "Year": 2006,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 4984,
+    "Offenses": 5970,
+    "Victims": 6325,
+    "Known_Offenders": 5166
+  },
+  {
+    "Year": 2006,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1462,
+    "Offenses": 1597,
+    "Victims": 1750,
+    "Known_Offenders": 705
+  },
+  {
+    "Year": 2006,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1195,
+    "Offenses": 1415,
+    "Victims": 1472,
+    "Known_Offenders": 1380
+  },
+  {
+    "Year": 2006,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 79,
+    "Offenses": 94,
+    "Victims": 95,
+    "Known_Offenders": 73
+  },
+  {
+    "Year": 2006,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 2,
+    "Offenses": 4,
+    "Victims": 10,
+    "Known_Offenders": 6
+  },
+  {
+    "Year": 2005,
+    "Bias Motivation Category": "Race-Ethnicity-Ancestry",
+    "Incidents": 4863,
+    "Offenses": 5835,
+    "Victims": 6123,
+    "Known_Offenders": 5028
+  },
+  {
+    "Year": 2005,
+    "Bias Motivation Category": "Religion",
+    "Incidents": 1227,
+    "Offenses": 1314,
+    "Victims": 1405,
+    "Known_Offenders": 580
+  },
+  {
+    "Year": 2005,
+    "Bias Motivation Category": "Sexual Orientation",
+    "Incidents": 1017,
+    "Offenses": 1171,
+    "Victims": 1213,
+    "Known_Offenders": 1138
+  },
+  {
+    "Year": 2005,
+    "Bias Motivation Category": "Disability",
+    "Incidents": 53,
+    "Offenses": 53,
+    "Victims": 54,
+    "Known_Offenders": 54
+  },
+  {
+    "Year": 2005,
+    "Bias Motivation Category": "Multiple-Bias Incidents",
+    "Incidents": 3,
+    "Offenses": 7,
+    "Victims": 9,
+    "Known_Offenders": 4
+  }
+]
