@@ -1,0 +1,551 @@
+[
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 613,
+    "Offenses": 734,
+    "Victims": 789,
+    "Known_Offenders": 681
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 1745,
+    "Offenses": 2125,
+    "Victims": 2201,
+    "Known_Offenders": 1605
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 131,
+    "Offenses": 137,
+    "Victims": 141,
+    "Known_Offenders": 113
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 115,
+    "Offenses": 138,
+    "Victims": 142,
+    "Known_Offenders": 111
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 299,
+    "Offenses": 379,
+    "Victims": 392,
+    "Known_Offenders": 325
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 407,
+    "Offenses": 516,
+    "Victims": 551,
+    "Known_Offenders": 361
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 593,
+    "Offenses": 701,
+    "Victims": 734,
+    "Known_Offenders": 635
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 1621,
+    "Offenses": 1955,
+    "Victims": 2022,
+    "Known_Offenders": 1442
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 130,
+    "Offenses": 142,
+    "Victims": 148,
+    "Known_Offenders": 108
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 143,
+    "Offenses": 172,
+    "Victims": 205,
+    "Known_Offenders": 190
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 299,
+    "Offenses": 376,
+    "Victims": 389,
+    "Known_Offenders": 325
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 430,
+    "Offenses": 525,
+    "Victims": 550,
+    "Known_Offenders": 399
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 653,
+    "Offenses": 728,
+    "Victims": 754,
+    "Known_Offenders": 680
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 1856,
+    "Offenses": 2263,
+    "Victims": 2371,
+    "Known_Offenders": 1747
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 129,
+    "Offenses": 146,
+    "Victims": 159,
+    "Known_Offenders": 108
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 138,
+    "Offenses": 161,
+    "Victims": 167,
+    "Known_Offenders": 137
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 331,
+    "Offenses": 418,
+    "Victims": 432,
+    "Known_Offenders": 418
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 519,
+    "Offenses": 485,
+    "Victims": 501,
+    "Known_Offenders": 386
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 657,
+    "Offenses": 739,
+    "Victims": 763,
+    "Known_Offenders": 756
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 1805,
+    "Offenses": 2180,
+    "Victims": 2295,
+    "Known_Offenders": 1771
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 101,
+    "Offenses": 109,
+    "Victims": 115,
+    "Known_Offenders": 92
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 121,
+    "Offenses": 134,
+    "Victims": 143,
+    "Known_Offenders": 119
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 384,
+    "Offenses": 488,
+    "Victims": 514,
+    "Known_Offenders": 393
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 396,
+    "Offenses": 469,
+    "Victims": 503,
+    "Known_Offenders": 330
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 504,
+    "Offenses": 577,
+    "Victims": 593,
+    "Known_Offenders": 594
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 2076,
+    "Offenses": 2494,
+    "Victims": 2619,
+    "Known_Offenders": 1935
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 61,
+    "Offenses": 67,
+    "Victims": 70,
+    "Known_Offenders": 60
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 138,
+    "Offenses": 165,
+    "Victims": 175,
+    "Known_Offenders": 120
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 405,
+    "Offenses": 506,
+    "Victims": 534,
+    "Known_Offenders": 452
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 453,
+    "Offenses": 547,
+    "Victims": 593,
+    "Known_Offenders": 375
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 575,
+    "Offenses": 679,
+    "Victims": 697,
+    "Known_Offenders": 649
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 2201,
+    "Offenses": 2600,
+    "Victims": 2765,
+    "Known_Offenders": 1974
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 44,
+    "Offenses": 45,
+    "Victims": 47,
+    "Known_Offenders": 43
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 150,
+    "Offenses": 190,
+    "Victims": 203,
+    "Known_Offenders": 156
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 534,
+    "Offenses": 681,
+    "Victims": 747,
+    "Known_Offenders": 593
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 478,
+    "Offenses": 570,
+    "Victims": 612,
+    "Known_Offenders": 406
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 716,
+    "Offenses": 812,
+    "Victims": 829,
+    "Known_Offenders": 811
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 2876,
+    "Offenses": 3413,
+    "Victims": 3596,
+    "Known_Offenders": 2596
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 54,
+    "Offenses": 59,
+    "Victims": 63,
+    "Known_Offenders": 61
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 137,
+    "Offenses": 162,
+    "Victims": 170,
+    "Known_Offenders": 140
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 561,
+    "Offenses": 735,
+    "Victims": 792,
+    "Known_Offenders": 711
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 542,
+    "Offenses": 671,
+    "Victims": 710,
+    "Known_Offenders": 438
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 749,
+    "Offenses": 871,
+    "Victims": 908,
+    "Known_Offenders": 828
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 2658,
+    "Offenses": 3275,
+    "Victims": 3434,
+    "Known_Offenders": 2509
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 61,
+    "Offenses": 75,
+    "Victims": 76,
+    "Known_Offenders": 63
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 188,
+    "Offenses": 219,
+    "Victims": 234,
+    "Known_Offenders": 165
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 595,
+    "Offenses": 775,
+    "Victims": 830,
+    "Known_Offenders": 758
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 626,
+    "Offenses": 765,
+    "Victims": 821,
+    "Known_Offenders": 539
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 890,
+    "Offenses": 1008,
+    "Victims": 1054,
+    "Known_Offenders": 1074
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 2640,
+    "Offenses": 3136,
+    "Victims": 3332,
+    "Known_Offenders": 2437
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 60,
+    "Offenses": 72,
+    "Victims": 75,
+    "Known_Offenders": 72
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 181,
+    "Offenses": 230,
+    "Victims": 239,
+    "Known_Offenders": 181
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 576,
+    "Offenses": 770,
+    "Victims": 819,
+    "Known_Offenders": 802
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 637,
+    "Offenses": 754,
+    "Victims": 806,
+    "Known_Offenders": 600
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Incidents": 828,
+    "Offenses": 935,
+    "Victims": 975,
+    "Known_Offenders": 963
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Incidents": 2630,
+    "Offenses": 3200,
+    "Victims": 3322,
+    "Known_Offenders": 2581
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-American Indian-Alaskan Native",
+    "Incidents": 79,
+    "Offenses": 95,
+    "Victims": 97,
+    "Known_Offenders": 73
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Asian-Pacific Islander",
+    "Incidents": 199,
+    "Offenses": 231,
+    "Victims": 240,
+    "Known_Offenders": 163
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 183,
+    "Offenses": 230,
+    "Victims": 261,
+    "Known_Offenders": 133
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Incidents": 522,
+    "Offenses": 660,
+    "Victims": 722,
+    "Known_Offenders": 691
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Other Racial Biases and Ethnic Biases",
+    "Incidents": 605,
+    "Offenses": 714,
+    "Victims": 767,
+    "Known_Offenders": 557
+  }
+]
