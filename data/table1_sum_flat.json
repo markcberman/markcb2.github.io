@@ -32,14 +32,6 @@
     "Known_Offenders": 1397
   },
   {
-    "Year": 2015,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 32,
-    "Offenses": 48,
-    "Victims": 52,
-    "Known_Offenders": 18
-  },
-  {
     "Year": 2014,
     "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
     "Incidents": 3216,
@@ -70,14 +62,6 @@
     "Offenses": 1327,
     "Victims": 1397,
     "Known_Offenders": 1316
-  },
-  {
-    "Year": 2014,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 17,
-    "Offenses": 33,
-    "Victims": 46,
-    "Known_Offenders": 16
   },
   {
     "Year": 2013,
@@ -112,14 +96,6 @@
     "Known_Offenders": 1592
   },
   {
-    "Year": 2013,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 6,
-    "Offenses": 12,
-    "Victims": 12,
-    "Known_Offenders": 6
-  },
-  {
     "Year": 2012,
     "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
     "Incidents": 3464,
@@ -150,14 +126,6 @@
     "Offenses": 102,
     "Victims": 102,
     "Known_Offenders": 96
-  },
-  {
-    "Year": 2012,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 6,
-    "Offenses": 13,
-    "Victims": 13,
-    "Known_Offenders": 9
   },
   {
     "Year": 2011,
@@ -192,14 +160,6 @@
     "Known_Offenders": 87
   },
   {
-    "Year": 2011,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 6,
-    "Offenses": 14,
-    "Victims": 16,
-    "Known_Offenders": 7
-  },
-  {
     "Year": 2010,
     "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
     "Incidents": 3982,
@@ -230,14 +190,6 @@
     "Offenses": 46,
     "Victims": 48,
     "Known_Offenders": 58
-  },
-  {
-    "Year": 2010,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 4,
-    "Offenses": 9,
-    "Victims": 9,
-    "Known_Offenders": 7
   },
   {
     "Year": 2008,
@@ -272,14 +224,6 @@
     "Known_Offenders": 72
   },
   {
-    "Year": 2008,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 3,
-    "Offenses": 8,
-    "Victims": 8,
-    "Known_Offenders": 6
-  },
-  {
     "Year": 2007,
     "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
     "Incidents": 4877,
@@ -310,14 +254,6 @@
     "Offenses": 82,
     "Victims": 84,
     "Known_Offenders": 70
-  },
-  {
-    "Year": 2007,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 3,
-    "Offenses": 7,
-    "Victims": 8,
-    "Known_Offenders": 3
   },
   {
     "Year": 2006,
@@ -352,14 +288,6 @@
     "Known_Offenders": 73
   },
   {
-    "Year": 2006,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 2,
-    "Offenses": 4,
-    "Victims": 10,
-    "Known_Offenders": 6
-  },
-  {
     "Year": 2005,
     "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
     "Incidents": 4863,
@@ -390,13 +318,5 @@
     "Offenses": 53,
     "Victims": 54,
     "Known_Offenders": 54
-  },
-  {
-    "Year": 2005,
-    "Bias_Motivation_Category": "Multiple-Bias Incidents",
-    "Incidents": 3,
-    "Offenses": 7,
-    "Victims": 9,
-    "Known_Offenders": 4
   }
 ]
