@@ -53,14 +53,15 @@
     </nav>
 
     <!-- Begin page content -->
-
-
-
-
   <div class="container"> <!-- start of main container -->
 
+          <div class="alert alert-info" role="alert">
+              <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span></button>
+              <strong></strong> Tooltips are available. Use your mouse to hover over any circle on the line chart to see its tooltip.
+         </div>
           <div class="page-header">
-            <h1>Hate Crime in the United States: 2005 - 2015</h1>
+            <h2>Hate Crime in the United States: 2005 - 2015</h2>
           </div>
           <p class="lead">Stories of domestic hate crime seem to dominate cable television news and Facebook feeds.  How rampant is it and are there ways to quntify it.  The answer is yes, courtesy of the <b>Department of Justice's (DOJ's) Uniform Crime Reporting</b> program.</p>
 
@@ -94,8 +95,6 @@
           <div class="container">
             <div class="col-lg-12">
               <p class="lead">Describe the story associated with the main hate crime incidents diagram here<br></p>
-              <br>
-              <br>
               <br>
               <h4 class="text-center">Hate Crime Incidents</h4>
               <h5 class="text-center">(2005 - 2015)</h5>
@@ -183,7 +182,12 @@
   <!--<script src="lib/d3-annotation.min.js"></script> -->
   <script src="lib/d3-tip.js"></script>
   <script src="lib/totalhatecrimeincidents.js"></script>
- 
-
+  <script>
+   window.setTimeout(function() {
+      $(".alert").fadeTo(500, 0).slideUp(500, function(){
+          $(this).remove();
+      });
+  }, 10000);
+  </script>
 </body>
 </html>

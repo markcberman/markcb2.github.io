@@ -59,6 +59,12 @@
 
   <div class="container"> <!-- start of main container -->
 
+          <div class="alert alert-info" role="alert">
+              <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span></button>
+              <strong></strong> Tooltips are available. Use your mouse to hover over any circle on the line chart to see its tooltip.
+         </div>
+
           <div class="page-header">
             <h1>Domestic Hate Crime Bias Motivations(2005 - 2015)</h1>
           </div>
@@ -73,11 +79,9 @@
               <h4 class="text-center">Dominant Hate Crime Bias Motivations</h4>
               <h5 class="text-center">(2005 - 2015)</h5>
               <div id="hcbiassum-svg"></div>  <!-- main hate crime incident image goes here -->
+              <div id="hcbiassum-legend-svg"></div>
             </div>
           </div>
-          <br>
-          <br>
-          <br>
           <br>
           <br>
      <div class="container" id="aboutVisualizationX" style="padding-bottom: 30px;"> <!-- /start aboutVisualizationX container -->
@@ -163,7 +167,14 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
   <script src="lib/d3-tip.js"></script>
   <script src="lib/hcbiassum.js"></script>
- 
+   <script>
+      window.setTimeout(function() {
+        $(".alert").fadeTo(500, 0).slideUp(500, function(){
+          $(this).remove();
+        });
+        }, 
+      10000);
+  </script>
 
 </body>
 </html>
