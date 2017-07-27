@@ -1,0 +1,26 @@
+
+
+  .axis {
+      font: 10px sans-serif;
+    }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #D4D8DA;
+    stroke-width: 2px;
+    shape-rendering: crispEdges;
+  }
+
+.line-race {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 5px;
+}
+
+.line-religion {
+  fill: none;
+  stroke: red;
+  stroke-width: 5px;
+}
+
