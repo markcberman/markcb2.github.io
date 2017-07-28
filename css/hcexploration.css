@@ -29,3 +29,15 @@
   stroke-width: 5px;
 }
 
+#barChart {
+  position:absolute;
+  top:160px;
+  left:410px;
+  height: 250px;
+}
+
+.title {
+   font-family: Verdana;
+    font-size: 15px;  
+    
+}
