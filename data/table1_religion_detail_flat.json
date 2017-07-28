@@ -1,0 +1,605 @@
+[
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Incidents": 664,
+    "Offenses": 695,
+    "Victims": 731,
+    "Known_Offenders": 387
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Catholic",
+    "Incidents": 53,
+    "Offenses": 59,
+    "Victims": 60,
+    "Known_Offenders": 29
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 37,
+    "Offenses": 47,
+    "Victims": 48,
+    "Known_Offenders": 18
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 257,
+    "Offenses": 301,
+    "Victims": 307,
+    "Known_Offenders": 228
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 51,
+    "Offenses": 57,
+    "Victims": 58,
+    "Known_Offenders": 30
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 180,
+    "Offenses": 193,
+    "Victims": 196,
+    "Known_Offenders": 117
+  },
+  {
+    "Year": 2015,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 2,
+    "Offenses": 2,
+    "Victims": 2,
+    "Known_Offenders": 0
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Incidents": 609,
+    "Offenses": 635,
+    "Victims": 648,
+    "Known_Offenders": 380
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Catholic",
+    "Incidents": 64,
+    "Offenses": 67,
+    "Victims": 70,
+    "Known_Offenders": 35
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 25,
+    "Offenses": 28,
+    "Victims": 28,
+    "Known_Offenders": 12
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 154,
+    "Offenses": 178,
+    "Victims": 184,
+    "Known_Offenders": 148
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 107,
+    "Offenses": 120,
+    "Victims": 125,
+    "Known_Offenders": 70
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 44,
+    "Offenses": 51,
+    "Victims": 71,
+    "Known_Offenders": 29
+  },
+  {
+    "Year": 2014,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 11,
+    "Offenses": 13,
+    "Victims": 14,
+    "Known_Offenders": 13
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Incidents": 625,
+    "Offenses": 689,
+    "Victims": 737,
+    "Known_Offenders": 393
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Catholic",
+    "Incidents": 70,
+    "Offenses": 74,
+    "Victims": 75,
+    "Known_Offenders": 72
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 35,
+    "Offenses": 42,
+    "Victims": 47,
+    "Known_Offenders": 17
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 135,
+    "Offenses": 165,
+    "Victims": 167,
+    "Known_Offenders": 127
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 117,
+    "Offenses": 135,
+    "Victims": 137,
+    "Known_Offenders": 44
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 42,
+    "Offenses": 51,
+    "Victims": 53,
+    "Known_Offenders": 25
+  },
+  {
+    "Year": 2013,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 7,
+    "Offenses": 7,
+    "Victims": 7,
+    "Known_Offenders": 4
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Incidents": 674,
+    "Offenses": 696,
+    "Victims": 836,
+    "Known_Offenders": 232
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Catholic",
+    "Incidents": 70,
+    "Offenses": 79,
+    "Victims": 86,
+    "Known_Offenders": 27
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 33,
+    "Offenses": 34,
+    "Victims": 35,
+    "Known_Offenders": 24
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 130,
+    "Offenses": 149,
+    "Victims": 155,
+    "Known_Offenders": 110
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 92,
+    "Offenses": 107,
+    "Victims": 115,
+    "Known_Offenders": 36
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 88,
+    "Offenses": 89,
+    "Victims": 101,
+    "Known_Offenders": 44
+  },
+  {
+    "Year": 2012,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 12,
+    "Offenses": 12,
+    "Victims": 12,
+    "Known_Offenders": 11
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Incidents": 771,
+    "Offenses": 820,
+    "Victims": 936,
+    "Known_Offenders": 287
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Catholic",
+    "Incidents": 67,
+    "Offenses": 68,
+    "Victims": 84,
+    "Known_Offenders": 21
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 44,
+    "Offenses": 49,
+    "Victims": 51,
+    "Known_Offenders": 32
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 157,
+    "Offenses": 175,
+    "Victims": 185,
+    "Known_Offenders": 138
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 130,
+    "Offenses": 139,
+    "Victims": 155,
+    "Known_Offenders": 74
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 60,
+    "Offenses": 63,
+    "Victims": 65,
+    "Known_Offenders": 37
+  },
+  {
+    "Year": 2011,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 4,
+    "Offenses": 4,
+    "Victims": 4,
+    "Known_Offenders": 1
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Incidents": 887,
+    "Offenses": 922,
+    "Victims": 1040,
+    "Known_Offenders": 346
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Catholic",
+    "Incidents": 58,
+    "Offenses": 61,
+    "Victims": 65,
+    "Known_Offenders": 22
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 41,
+    "Offenses": 46,
+    "Victims": 47,
+    "Known_Offenders": 6
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 160,
+    "Offenses": 186,
+    "Victims": 197,
+    "Known_Offenders": 125
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 123,
+    "Offenses": 134,
+    "Victims": 141,
+    "Known_Offenders": 72
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 48,
+    "Offenses": 53,
+    "Victims": 55,
+    "Known_Offenders": 30
+  },
+  {
+    "Year": 2010,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 5,
+    "Offenses": 7,
+    "Victims": 7,
+    "Known_Offenders": 5
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Catholic",
+    "Incidents": 75,
+    "Offenses": 75,
+    "Victims": 89,
+    "Known_Offenders": 35
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 56,
+    "Offenses": 60,
+    "Victims": 62,
+    "Known_Offenders": 34
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 105,
+    "Offenses": 123,
+    "Victims": 130,
+    "Known_Offenders": 85
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 191,
+    "Offenses": 212,
+    "Victims": 222,
+    "Known_Offenders": 90
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 65,
+    "Offenses": 67,
+    "Victims": 70,
+    "Known_Offenders": 33
+  },
+  {
+    "Year": 2008,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 14,
+    "Offenses": 14,
+    "Victims": 14,
+    "Known_Offenders": 2
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 57,
+    "Offenses": 59,
+    "Victims": 67,
+    "Known_Offenders": 22
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 115,
+    "Offenses": 133,
+    "Victims": 142,
+    "Known_Offenders": 104
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 130,
+    "Offenses": 140,
+    "Victims": 148,
+    "Known_Offenders": 62
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 62,
+    "Offenses": 64,
+    "Victims": 66,
+    "Known_Offenders": 32
+  },
+  {
+    "Year": 2007,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 6,
+    "Offenses": 6,
+    "Victims": 8,
+    "Known_Offenders": 5
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Incidents": 967,
+    "Offenses": 1027,
+    "Victims": 1144,
+    "Known_Offenders": 362
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Catholic",
+    "Incidents": 76,
+    "Offenses": 81,
+    "Victims": 86,
+    "Known_Offenders": 44
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 59,
+    "Offenses": 62,
+    "Victims": 65,
+    "Known_Offenders": 35
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 156,
+    "Offenses": 191,
+    "Victims": 208,
+    "Known_Offenders": 147
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 124,
+    "Offenses": 140,
+    "Victims": 147,
+    "Known_Offenders": 63
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 73,
+    "Offenses": 88,
+    "Victims": 92,
+    "Known_Offenders": 49
+  },
+  {
+    "Year": 2006,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 7,
+    "Offenses": 8,
+    "Victims": 8,
+    "Known_Offenders": 5
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Incidents": 848,
+    "Offenses": 900,
+    "Victims": 977,
+    "Known_Offenders": 364
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Catholic",
+    "Incidents": 58,
+    "Offenses": 61,
+    "Victims": 61,
+    "Known_Offenders": 22
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Protestant",
+    "Incidents": 57,
+    "Offenses": 58,
+    "Victims": 58,
+    "Known_Offenders": 32
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Incidents": 128,
+    "Offenses": 146,
+    "Victims": 151,
+    "Known_Offenders": 89
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Incidents": 93,
+    "Offenses": 102,
+    "Victims": 106,
+    "Known_Offenders": 54
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Multiple Religions, Group",
+    "Incidents": 39,
+    "Offenses": 42,
+    "Victims": 47,
+    "Known_Offenders": 18
+  },
+  {
+    "Year": 2005,
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Atheism-Agnosticism-etc.",
+    "Incidents": 4,
+    "Offenses": 5,
+    "Victims": 5,
+    "Known_Offenders": 1
+  }
+]
