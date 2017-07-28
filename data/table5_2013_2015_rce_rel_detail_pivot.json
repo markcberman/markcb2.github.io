@@ -1,0 +1,345 @@
+[
+  {
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Race_Ethnicity_Of_Offender": "White",
+    "Offenses": 5581,
+    "Percent_Of_Offenses": 0.39
+  },
+  {
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Race_Ethnicity_Of_Offender": "Black",
+    "Offenses": 1584,
+    "Percent_Of_Offenses": 0.11
+  },
+  {
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Race_Ethnicity_Of_Offender": "Multiple_Race",
+    "Offenses": 366,
+    "Percent_Of_Offenses": 0.03
+  },
+  {
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Race_Ethnicity_Of_Offender": "Unknown_Race",
+    "Offenses": 1602,
+    "Percent_Of_Offenses": 0.11
+  },
+  {
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Race_Ethnicity_Of_Offender": "Unknown_Offender",
+    "Offenses": 3467,
+    "Percent_Of_Offenses": 0.24
+  },
+  {
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Race_Ethnicity_Of_Offender": "Hispanic_Or_Latino",
+    "Offenses": 109,
+    "Percent_Of_Offenses": 0.01
+  },
+  {
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Race_Ethnicity_Of_Offender": "Unknown_Ethnicity",
+    "Offenses": 1695,
+    "Percent_Of_Offenses": 0.12
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Race_Ethnicity_Of_Offender": "White",
+    "Offenses": 3728,
+    "Percent_Of_Offenses": 0.51
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Race_Ethnicity_Of_Offender": "Black",
+    "Offenses": 214,
+    "Percent_Of_Offenses": 0.03
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Race_Ethnicity_Of_Offender": "Multiple_Race",
+    "Offenses": 207,
+    "Percent_Of_Offenses": 0.03
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Race_Ethnicity_Of_Offender": "Unknown_Race",
+    "Offenses": 543,
+    "Percent_Of_Offenses": 0.07
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Race_Ethnicity_Of_Offender": "Unknown_Offender",
+    "Offenses": 1564,
+    "Percent_Of_Offenses": 0.22
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Race_Ethnicity_Of_Offender": "Hispanic_Or_Latino",
+    "Offenses": 79,
+    "Percent_Of_Offenses": 0.01
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Black",
+    "Race_Ethnicity_Of_Offender": "Unknown_Ethnicity",
+    "Offenses": 920,
+    "Percent_Of_Offenses": 0.13
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Race_Ethnicity_Of_Offender": "White",
+    "Offenses": 615,
+    "Percent_Of_Offenses": 0.48
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Race_Ethnicity_Of_Offender": "Black",
+    "Offenses": 228,
+    "Percent_Of_Offenses": 0.18
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Race_Ethnicity_Of_Offender": "Multiple_Race",
+    "Offenses": 38,
+    "Percent_Of_Offenses": 0.03
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Race_Ethnicity_Of_Offender": "Unknown_Race",
+    "Offenses": 76,
+    "Percent_Of_Offenses": 0.06
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Race_Ethnicity_Of_Offender": "Unknown_Offender",
+    "Offenses": 193,
+    "Percent_Of_Offenses": 0.15
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Race_Ethnicity_Of_Offender": "Hispanic_Or_Latino",
+    "Offenses": 10,
+    "Percent_Of_Offenses": 0.01
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-Hispanic",
+    "Race_Ethnicity_Of_Offender": "Unknown_Ethnicity",
+    "Offenses": 126,
+    "Percent_Of_Offenses": 0.1
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Race_Ethnicity_Of_Offender": "White",
+    "Offenses": 283,
+    "Percent_Of_Offenses": 0.37
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Race_Ethnicity_Of_Offender": "Black",
+    "Offenses": 57,
+    "Percent_Of_Offenses": 0.08
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Race_Ethnicity_Of_Offender": "Multiple_Race",
+    "Offenses": 33,
+    "Percent_Of_Offenses": 0.04
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Race_Ethnicity_Of_Offender": "Unknown_Race",
+    "Offenses": 93,
+    "Percent_Of_Offenses": 0.12
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Race_Ethnicity_Of_Offender": "Unknown_Offender",
+    "Offenses": 170,
+    "Percent_Of_Offenses": 0.22
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Race_Ethnicity_Of_Offender": "Hispanic_Or_Latino",
+    "Offenses": 6,
+    "Percent_Of_Offenses": 0.01
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Islamic",
+    "Race_Ethnicity_Of_Offender": "Unknown_Ethnicity",
+    "Offenses": 115,
+    "Percent_Of_Offenses": 0.15
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Race_Ethnicity_Of_Offender": "White",
+    "Offenses": 351,
+    "Percent_Of_Offenses": 0.17
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Race_Ethnicity_Of_Offender": "Black",
+    "Offenses": 86,
+    "Percent_Of_Offenses": 0.04
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Race_Ethnicity_Of_Offender": "Multiple_Race",
+    "Offenses": 22,
+    "Percent_Of_Offenses": 0.01
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Race_Ethnicity_Of_Offender": "Unknown_Race",
+    "Offenses": 678,
+    "Percent_Of_Offenses": 0.32
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Race_Ethnicity_Of_Offender": "Unknown_Offender",
+    "Offenses": 875,
+    "Percent_Of_Offenses": 0.42
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Race_Ethnicity_Of_Offender": "Hispanic_Or_Latino",
+    "Offenses": 0,
+    "Percent_Of_Offenses": 0
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Jewish",
+    "Race_Ethnicity_Of_Offender": "Unknown_Ethnicity",
+    "Offenses": 80,
+    "Percent_Of_Offenses": 0.04
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Race_Ethnicity_Of_Offender": "White",
+    "Offenses": 139,
+    "Percent_Of_Offenses": 0.27
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Race_Ethnicity_Of_Offender": "Black",
+    "Offenses": 24,
+    "Percent_Of_Offenses": 0.05
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Race_Ethnicity_Of_Offender": "Multiple_Race",
+    "Offenses": 7,
+    "Percent_Of_Offenses": 0.01
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Race_Ethnicity_Of_Offender": "Unknown_Race",
+    "Offenses": 57,
+    "Percent_Of_Offenses": 0.11
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Race_Ethnicity_Of_Offender": "Unknown_Offender",
+    "Offenses": 211,
+    "Percent_Of_Offenses": 0.42
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Race_Ethnicity_Of_Offender": "Hispanic_Or_Latino",
+    "Offenses": 5,
+    "Percent_Of_Offenses": 0.01
+  },
+  {
+    "Bias_Motivation_Category": "Religion",
+    "Bias_Motivation_SubCategory": "Anti-Other Religion",
+    "Race_Ethnicity_Of_Offender": "Unknown_Ethnicity",
+    "Offenses": 64,
+    "Percent_Of_Offenses": 0.13
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Race_Ethnicity_Of_Offender": "White",
+    "Offenses": 465,
+    "Percent_Of_Offenses": 0.19
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Race_Ethnicity_Of_Offender": "Black",
+    "Offenses": 975,
+    "Percent_Of_Offenses": 0.39
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Race_Ethnicity_Of_Offender": "Multiple_Race",
+    "Offenses": 59,
+    "Percent_Of_Offenses": 0.02
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Race_Ethnicity_Of_Offender": "Unknown_Race",
+    "Offenses": 155,
+    "Percent_Of_Offenses": 0.06
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Race_Ethnicity_Of_Offender": "Unknown_Offender",
+    "Offenses": 454,
+    "Percent_Of_Offenses": 0.18
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Race_Ethnicity_Of_Offender": "Hispanic_Or_Latino",
+    "Offenses": 9,
+    "Percent_Of_Offenses": 0
+  },
+  {
+    "Bias_Motivation_Category": "Race-Ethnicity-Ancestry",
+    "Bias_Motivation_SubCategory": "Anti-White",
+    "Race_Ethnicity_Of_Offender": "Unknown_Ethnicity",
+    "Offenses": 390,
+    "Percent_Of_Offenses": 0.16
+  }
+]
