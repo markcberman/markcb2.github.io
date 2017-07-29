@@ -37,7 +37,18 @@
 }
 
 .title {
-   font-family: Verdana;
-    font-size: 15px;  
+    font-size: 13px;  
     
+}
+
+.xAxis {
+    font-family: verdana;
+    font-size: 11px;
+    fill: black;
+}  
+
+.yAxis {
+    font-family: verdana;
+    font-size: 11px;
+    fill: black;
 }
