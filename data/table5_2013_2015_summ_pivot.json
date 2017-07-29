@@ -1,0 +1,51 @@
+[
+  {
+    "Race_Ethnicity_Of_Offender": "Black",
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Offenses": 3226,
+    "Percent_Of_Offenses": 13
+  },
+  {
+    "Race_Ethnicity_Of_Offender": "Hispanic",
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Offenses": 1869,
+    "Percent_Of_Offenses": 8
+  },
+  {
+    "Race_Ethnicity_Of_Offender": "Multi-R",
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Offenses": 692,
+    "Percent_Of_Offenses": 3
+  },
+  {
+    "Race_Ethnicity_Of_Offender": "Ukn-E",
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Offenses": 2731,
+    "Percent_Of_Offenses": 11
+  },
+  {
+    "Race_Ethnicity_Of_Offender": "Ukn-O",
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Offenses": 5191,
+    "Percent_Of_Offenses": 21
+  },
+  {
+    "Race_Ethnicity_Of_Offender": "Ukn-R",
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Offenses": 2387,
+    "Percent_Of_Offenses": 10
+  },
+  {
+    "Race_Ethnicity_Of_Offender": "White",
+    "Bias_Motivation_Category": "ALL",
+    "Bias_Motivation_SubCategory": "ALL",
+    "Offenses": 8418,
+    "Percent_Of_Offenses": 34
+  }
+]

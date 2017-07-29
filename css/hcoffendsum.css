@@ -1,0 +1,54 @@
+.axis {
+      font: 10px sans-serif;
+    }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #D4D8DA;
+    stroke-width: 2px;
+    shape-rendering: crispEdges;
+  }
+
+.line-race {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 5px;
+}
+
+.line-religion {
+  fill: none;
+  stroke: #C43E3E;
+  stroke-width: 5px;
+}
+
+
+.line-sex {
+  fill: none;
+  stroke: #208726;
+  stroke-width: 5px;
+}
+
+#barChart {
+  position:absolute;
+  top:160px;
+  left:410px;
+  height: 250px;
+}
+
+.title {
+    font-size: 13px;  
+    
+}
+
+.xAxis {
+    font-family: verdana;
+    font-size: 11px;
+    fill: black;
+}  
+
+.yAxis {
+    font-family: verdana;
+    font-size: 11px;
+    fill: black;
+}
