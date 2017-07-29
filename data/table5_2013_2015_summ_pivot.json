@@ -1,6 +1,7 @@
 [
   {
     "Race_Ethnicity_Of_Offender": "Black",
+    "Race_Ethnicity_Of_Offender_Desc": "Black or African American",
     "Bias_Motivation_Category": "ALL",
     "Bias_Motivation_SubCategory": "ALL",
     "Offenses": 3226,
@@ -8,6 +9,7 @@
   },
   {
     "Race_Ethnicity_Of_Offender": "Hispanic",
+    "Race_Ethnicity_Of_Offender_Desc": "Hispanic or Latinos",
     "Bias_Motivation_Category": "ALL",
     "Bias_Motivation_SubCategory": "ALL",
     "Offenses": 1869,
@@ -15,6 +17,7 @@
   },
   {
     "Race_Ethnicity_Of_Offender": "Multi-R",
+    "Race_Ethnicity_Of_Offender_Desc": "Multi-Race",
     "Bias_Motivation_Category": "ALL",
     "Bias_Motivation_SubCategory": "ALL",
     "Offenses": 692,
@@ -22,6 +25,7 @@
   },
   {
     "Race_Ethnicity_Of_Offender": "Ukn-E",
+    "Race_Ethnicity_Of_Offender_Desc": "Unknown Ethnicity",
     "Bias_Motivation_Category": "ALL",
     "Bias_Motivation_SubCategory": "ALL",
     "Offenses": 2731,
@@ -29,6 +33,7 @@
   },
   {
     "Race_Ethnicity_Of_Offender": "Ukn-O",
+    "Race_Ethnicity_Of_Offender_Desc": "Unknown Offender",
     "Bias_Motivation_Category": "ALL",
     "Bias_Motivation_SubCategory": "ALL",
     "Offenses": 5191,
@@ -36,6 +41,7 @@
   },
   {
     "Race_Ethnicity_Of_Offender": "Ukn-R",
+    "Race_Ethnicity_Of_Offender_Desc": "Unknown Race",
     "Bias_Motivation_Category": "ALL",
     "Bias_Motivation_SubCategory": "ALL",
     "Offenses": 2387,
@@ -43,6 +49,7 @@
   },
   {
     "Race_Ethnicity_Of_Offender": "White",
+    "Race_Ethnicity_Of_Offender_Desc": "White",
     "Bias_Motivation_Category": "ALL",
     "Bias_Motivation_SubCategory": "ALL",
     "Offenses": 8418,
